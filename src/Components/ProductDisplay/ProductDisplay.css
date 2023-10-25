@@ -83,3 +83,6 @@
 .productdisplay-right-category{
     margin-top: 10px;
 }
+.productdisplay-right-category span{
+    font-weight: 600;
+}
